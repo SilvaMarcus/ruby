@@ -1,0 +1,31 @@
+Ruby possui diversos tipos de dados que são fundamentais para a programação. Aqui está um resumo dos tipos de dados mais comuns em Ruby:
+
+1. Inteiro (Integer): Representa números inteiros. Exemplo: 42.
+
+2. Ponto Flutuante (Float): Representa números com casas decimais. Exemplo: 3.14.
+
+3. String: Sequência de caracteres. Pode ser representada com aspas simples (') ou duplas ("). Exemplo: 'Olá, mundo!'.
+
+4. Booleano (Boolean): Representa valores verdadeiros (true) ou falsos (false).
+
+5. Array: Coleção ordenada de elementos. Os elementos podem ser de diferentes tipos. Exemplo: [1, 2, 3, 4].
+
+6. Hash: Coleção de pares chave-valor, onde cada chave é única. Exemplo: {'nome' => 'Alice', 'idade' => 30}.
+
+7. Símbolo (Symbol): Representa um identificador imutável, frequentemente usado como chave em hashes. Exemplo: :nome.
+
+8. Nil: Representa a ausência de valor ou nada. É o equivalente ao null em outras linguagens.
+
+9. Range: Representa um intervalo de valores. Exemplo: (1..5) representa o intervalo de 1 a 5.
+
+10. Regular Expression (Regex): Representa padrões de texto. Exemplo: /pattern/.
+
+11. Classe: Em Ruby, as classes também são tipos de dados. Elas definem objetos e com1portamentos.
+
+12. Módulo: Semelhante a uma classe, mas não pode ser instanciado. É usado para agrupar código relacionado.
+
+Estes são os tipos de dados fundamentais em Ruby. Cada tipo tem seu próprio conjunto de operações e métodos associados, permitindo aos programadores realizar várias operações complexas com dados em Ruby.
+
+
+
+
