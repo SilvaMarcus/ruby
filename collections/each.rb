@@ -1,9 +1,5 @@
-names = ["Marcus", "Joao", "Carlos"] 
+names = ["Marcus", "Joao", "Carlos"]
 
-names.each do |name|
-    puts name + ' È meu nome'
-end 
-
-
-
-
+names.each do |element|
+    puts element + ' È meu nome'
+end
