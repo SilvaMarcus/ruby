@@ -5,9 +5,8 @@ palpiteUsuário = gets.chomp.to_i
 
 if palpiteUsuário == randomNumero
     puts "Voce acertou"
-else 
+else
     puts "Errouuu"
 end
 
-puts "O numero era  #{randomNumero} "
-
+puts "O numero era #{randomNumero} "
