@@ -1,13 +1,12 @@
-class Computer 
+class Computer
     def turn_on
         "Turn On the Computer"
     end
-
-    def shutdown 
+    def shutdown
         "Shutdown the computer"
     end
 end
 
-computer = Computer.new  
+computer = Computer.new
 
 puts computer.turn_on

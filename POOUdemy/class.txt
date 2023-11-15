@@ -1,0 +1,11 @@
+A classe são a maneira que informacao como queremos que o nosso objeto funcione, na classe estabelecemos a estrutura queo objeto terá, ele sera uma copia da classe.
+
+A classe terá 
+Metodos: (acoes/comportamentos)
+Atributos: (Caracteristicas)
+
+Classe : Forma
+Objeto: Objeto pronto. 
+
+
+Instanciar uma classe é o que gera um objeto, uma instancia é uma classe formando um objeto novo.
