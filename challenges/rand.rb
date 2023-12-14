@@ -4,7 +4,7 @@ print "Digite um palpite: "
 palpiteUsuário = gets.chomp.to_i
 
 if palpiteUsuário == randomNumero
-    puts "Voce acertou"
+    puts "PROFETA!"
 else
     puts "Errouuu"
 end

@@ -7,5 +7,7 @@ Atributos: (Caracteristicas)
 Classe : Forma
 Objeto: Objeto pronto. 
 
+Self: 
 
+Self é o proprio objeto instanciado, equivalente ao this no javascript
 Instanciar uma classe é o que gera um objeto, uma instancia é uma classe formando um objeto novo.
